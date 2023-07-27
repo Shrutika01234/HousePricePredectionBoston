@@ -1,5 +1,7 @@
-Flask 
-sklearn
+Flask>=2.2.2
+scikit-learn
 pandas 
 numpy
 matplotlib
+jinja2
+gunicorn

@@ -9,7 +9,8 @@ conda activate venv/
 git config --global user.name
 git config --global user.email
 
-git add .
+git add 
+git status
 git commit -m "code"
 git push <remote> barch
 git push origin main
